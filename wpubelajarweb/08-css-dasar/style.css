@@ -1,0 +1,13 @@
+  h1 {
+        
+            text-align: center;
+            font-size: 120px;
+            color:lightblue;
+            font-family:arial;
+        }
+
+        p {
+            color:navy;
+            font-size:30px;
+            text-align:center;
+        }
